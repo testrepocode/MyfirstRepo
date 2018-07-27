@@ -1,1 +1,2 @@
 testing git via adding a file from cmd
+Some new text
