@@ -15,6 +15,7 @@ API_Key
 sql
 send
 Bulk@entries.com
+Entries
 twitter4j.oauth.accessToken=
 .pfx
 new SqlConnection
